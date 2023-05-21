@@ -1,618 +1,618 @@
-   Type    , Thickness (mm) ,       Purpose        ,        Task          
- Common    ,      1.8       , General purpose      , Furniture assembly   
- Finish    ,      2.1       , Fine woodworking     , Cabinet making       
- Masonry   ,      3.5       , Construction         , Framing              
- Roofing   ,      4.0       , Roofing              , Roof installation    
- Concrete  ,      5.0       , Concrete             , Concrete formwork     
- Brad      ,      1.2       , Detail work          , Trim installation    
- Ring Shank,      2.8       , Subflooring          , Flooring             
- Panel     ,      2.5       , Wood paneling        , Panel installation   
- Upholstery,      1.0       , Upholstery           , Upholstery repair    
- Tack      ,      0.8       , Decorative           , Crafts               
- Drywall   ,      1.6       , Drywall              , Drywall installation 
- Joist     ,      4.5       , Construction         , Joist framing        
- Siding    ,      3.2       , Exterior siding      , Siding installation  
- Coil      ,      2.9       , Fencing              , Fence installation   
- Flooring  ,      2.2       , Hardwood flooring    , Flooring             
- Masonry   ,      3.0       , Construction         , Masonry work         
- Brad      ,      1.0       , Detail work          , Picture framing      
- Common    ,      2.0       , General purpose      , Home repairs         
- Roofing   ,      4.5       , Roofing              , Shingle replacement  
- Deck      ,      3.8       , Deck construction    , Deck building        
- Framing   ,      3.2       , Construction         , Wall framing         
- Trim      ,      1.5       , Trim work            , Baseboard installation 
- Concrete  ,      4.8       , Concrete             , Concrete slab        
- Finish    ,      1.9       , Fine woodworking     , Furniture refinishing 
- Finish    ,      2.0       , Fine woodworking     , Door installation    
- Common    ,      1.6       , General purpose      , Shelf assembly       
- Masonry   ,      3.8       , Construction         , Foundation building  
- Roofing   ,      4.2       , Roofing              , Flashing installation
- Concrete  ,      5.5       , Concrete             , Bridge construction  
- Brad      ,      1.1       , Detail work          , Picture hanging      
- Framing   ,      3.0       , Construction         , Beam construction    
- Deck      ,      3.5       , Deck construction    , Railing installation 
- Finish    ,      2.2       , Fine woodworking     , Table refinishing    
- Masonry   ,      4.0       , Construction         , Retaining wall       
- Common    ,      2.5       , General purpose      , Door repairs         
- Trim      ,      1.8       , Trim work            , Crown molding installation 
- Roofing   ,      4.8       , Roofing              , Flat roof installation 
- Brad      ,      1.3       , Detail work          , Shelf installation   
- Common    ,      1.7       , General purpose      , Home improvement     
- Finish    ,      2.3       , Fine woodworking     , Chair refinishing    
- Masonry   ,      3.2       , Construction         , Fence building       
- Roofing   ,      4.4       , Roofing              , Skylight installation 
- Concrete  ,      5.2       , Concrete             , Sidewalk construction
- Brad      ,      1.4       , Detail work          , Mirror hanging       
- Ring Shank,      3.0       , Subflooring          , Subfloor installation 
- Panel     ,      2.8       , Wood paneling        , Wainscoting installation 
- Upholstery,      1.2       , Upholstery           , Cushion reupholstering 
- Tack      ,      1.0       , Decorative           , Scrapbooking         
- Drywall   ,      1.8       , Drywall              , Partition installation 
- Joist     ,      4.2       , Construction         , Deck joist framing   
- Siding    ,      3.5       , Exterior siding      , Cladding installation 
- Coil      ,      3.0       , Fencing              , Gate installation    
- Flooring  ,      2.5       , Hardwood flooring    , Parquet installation 
- Masonry   ,      3.3       , Construction         , Chimney building     
- Brad      ,      1.5       , Detail work          , Shadow box mounting  
- Common    ,      2.2       , General purpose      , Garage repairs       
- Roofing   ,      4.7       , Roofing              , Valley flashing installation 
- Deck      ,      3.6       , Deck construction    , Staircase building   
- Framing   ,      3.4       , Construction         , Truss installation   
- Trim      ,      2.0       , Trim work            , Window casing installation 
- Concrete  ,      5.0       , Concrete             , Driveway construction
- Finish    ,      2.5       , Fine woodworking     , Bookshelf refinishing 
- Finish    ,      2.3       , Fine woodworking     , Stair railing installation 
- Common    ,      1.9       , General purpose      , Shelf repairs        
- Masonry   ,      3.6       , Construction         , Paving               
- Roofing   ,      4.3       , Roofing              , Eave installation    
- Concrete  ,      5.8       , Concrete             , Foundation slab      
- Brad      ,      1.6       , Detail work          , Canvas stretching    
- Ring Shank,      3.2       , Subflooring          , Underlayment installation 
- Panel     ,      2.9       , Wood paneling        , Ceiling installation 
- Upholstery,      1.4       , Upholstery           , Chair reupholstering 
- Tack      ,      1.2       , Decorative           , Jewelry making       
- Drywall   ,      2.0       , Drywall              , Ceiling installation 
- Joist     ,      4.0       , Construction         , Deck beam framing    
- Siding    ,      3.8       , Exterior siding      , Fascia installation  
- Coil      ,      3.2       , Fencing              , Post installation    
- Flooring  ,      2.7       , Hardwood flooring    , Staircase installation 
- Masonry   ,      3.5       , Construction         , Bricklaying          
- Brad      ,      1.7       , Detail work          , Sign hanging         
- Common    ,      2.4       , General purpose      , Cabinet repairs      
- Roofing   ,      4.6       , Roofing              , Ridge vent installation 
- Deck      ,      3.7       , Deck construction    , Balcony building     
- Framing   ,      3.6       , Construction         , Roof truss framing   
- Trim      ,      2.2       , Trim work            , Door trim installation 
- Concrete  ,      5.2       , Concrete             , Foundation wall      
- Finish    ,      2.7       , Fine woodworking     , Dresser refinishing  
- Finish    ,      2.4       , Fine woodworking     , Window frame installation 
- Common    ,      2.0       , General purpose      , Shelf installation   
- Masonry   ,      3.9       , Construction         , Tuckpointing         
- Roofing   ,      4.1       , Roofing              , Vent pipe installation 
- Concrete  ,      6.0       , Concrete             , Basement construction
- Brad      ,      1.8       , Detail work          , Collage making       
- Ring Shank,      3.4       , Subflooring          , Hardwood floor installation 
- Panel     ,      3.1       , Wood paneling        , Wall cladding installation 
- Upholstery,      1.6       , Upholstery           , Sofa reupholstering  
- Tack      ,      1.4       , Decorative           , Cardboard crafts     
- Drywall   ,      2.2       , Drywall              , Corner bead installation 
- Joist     ,      4.8       , Construction         , Roof joist framing   
- Siding    ,      4.0       , Exterior siding      , Gable installation   
- Coil      ,      3.5       , Fencing              , Privacy fence installation 
- Flooring  ,      3.0       , Hardwood flooring    , Gymnasium floor installation 
- Masonry   ,      3.8       , Construction         , Stone veneer installation 
- Brad      ,      1.9       , Detail work          , Floating shelf installation 
- Common    ,      2.6       , General purpose      , Bookcase assembly    
- Roofing   ,      4.9       , Roofing              , Chimney cap installation 
- Deck      ,      3.9       , Deck construction    , Deck railing installation 
- Framing   ,      3.8       , Construction         , Shed framing         
- Trim      ,      2.4       , Trim work            , Chair rail installation 
- Concrete  ,      5.6       , Concrete             , Patio construction   
- Finish    ,      2.9       , Fine woodworking     , Desk refinishing     
- Finish    ,      2.6       , Fine woodworking     , Fireplace mantel installation 
- Common    ,      2.2       , General purpose      , Picture frame repairs
- Masonry   ,      4.2       , Construction         , Concrete block laying
- Roofing   ,      4.5       , Roofing              , Solar panel installation 
- Concrete  ,      6.2       , Concrete             , Garage floor          
- Brad      ,      2.0       , Detail work          , Sculpture mounting   
- Ring Shank,      3.6       , Subflooring          , Laminate floor installation 
- Panel     ,      3.3       , Wood paneling        , Soffit installation  
- Upholstery,      1.8       , Upholstery           , Ottoman reupholstering 
- Tack      ,      1.6       , Decorative           , Leather crafts       
- Drywall   ,      2.4       , Drywall              , Soundproofing        
- Joist     ,      5.0       , Construction         , Timber framing       
- Siding    ,      4.2       , Exterior siding      , Cornice installation 
- Coil      ,      3.8       , Fencing              , Trellis installation 
- Flooring  ,      3.2       , Hardwood flooring    , Dance floor installation 
- Masonry   ,      4.0       , Construction         , Stucco application   
- Brad      ,      2.1       , Detail work          , Tapestry hanging     
- Common    ,      2.8       , General purpose      , Garden furniture assembly 
- Roofing   ,      5.0       , Roofing              , Attic vent installation 
- Deck      ,      4.2       , Deck construction    , Deck stairs installation 
- Framing   ,      4.0       , Construction         , Post and beam construction 
- Trim      ,      2.6       , Trim work            , Wainscoting installation 
- Concrete  ,      5.8       , Concrete             , Pool deck construction 
- Finish    ,      3.1       , Fine woodworking     , Bookcase installation 
- Finish    ,      2.8       , Fine woodworking     , Chair installation   
- Common    ,      2.4       , General purpose      , Fence repairs        
- Masonry   ,      4.4       , Construction         , Concrete stairs      
- Roofing   ,      4.8       , Roofing              , Soffit vent installation 
- Concrete  ,      6.5       , Concrete             , Warehouse flooring   
- Brad      ,      2.2       , Detail work          , Decorative hooks installation 
- Ring Shank,      3.9       , Subflooring          , Engineered floor installation 
- Panel     ,      3.6       , Wood paneling        , Wainscoting repairs  
- Upholstery,      2.0       , Upholstery           , Bench reupholstering 
- Tack      ,      1.8       , Decorative           , Floral arrangements  
- Drywall   ,      2.6       , Drywall              , Access panel installation 
- Joist     ,      5.2       , Construction         , Porch construction   
- Siding    ,      4.4       , Exterior siding      , Soffit installation 
- Coil      ,      4.0       , Fencing              , Chain link fence installation 
- Flooring  ,      3.5       , Hardwood flooring    , Sports court installation 
- Masonry   ,      4.2       , Construction         , Fireplace construction 
- Brad      ,      2.3       , Detail work          , Art display hanging  
- Common    ,      3.0       , General purpose      , Home renovation     
- Roofing   ,      5.2       , Roofing              , Drip edge installation 
- Deck      ,      4.5       , Deck construction    , Deck pergola installation 
- Framing   ,      4.2       , Construction         , Barn construction    
- Trim      ,      2.8       , Trim work            , Window trim installation 
- Concrete  ,      6.0       , Concrete             , Walkway construction 
- Finish    ,      3.3       , Fine woodworking     , Cabinet installation 
- Finish    ,      3.0       , Fine woodworking     , Countertop refinishing 
- Common    ,      2.6       , General purpose      , Shelving upgrades    
- Masonry   ,      4.6       , Construction         , Brick arch           
- Roofing   ,      5.5       , Roofing              , Valley installation  
- Concrete  ,      7.0       , Concrete             , High-rise building   
- Brad      ,      2.5       , Detail work          , Plant hanger         
- Ring Shank,      4.2       , Subflooring          , Vinyl floor installation 
- Panel     ,      3.9       , Wood paneling        , Exterior siding panel installation 
- Upholstery,      2.2       , Upholstery           , Headboard reupholstering 
- Tack      ,      2.0       , Decorative           , Beaded jewelry       
- Drywall   ,      2.8       , Drywall              , Fire-rated wall installation 
- Joist     ,      5.5       , Construction         , Roof beam installation 
- Siding    ,      4.6       , Exterior siding      , Shutter installation 
- Coil      ,      4.2       , Fencing              , Gabion wall construction 
- Flooring  ,      3.8       , Hardwood flooring    , Sports arena floor installation 
- Masonry   ,      4.8       , Construction         , Arched doorway       
- Brad      ,      2.6       , Detail work          , Frame installation   
- Common    ,      3.2       , General purpose      , Shed assembly        
- Roofing   ,      5.7       , Roofing              , Eaves trough installation 
- Deck      ,      4.8       , Deck construction    , Pool deck building   
- Framing   ,      4.6       , Construction         , Log cabin framing    
- Trim      ,      3.2       , Trim work            , Crown molding repairs 
- Concrete  ,      6.2       , Concrete             , Bridge piers         
- Finish    ,      3.5       , Fine woodworking     , Kitchen cabinet refinishing 
- Finish    ,      3.2       , Fine woodworking     , Mantelpiece installation 
- Common    ,      2.8       , General purpose      , Window repairs       
- Masonry   ,      4.8       , Construction         , Monument building    
- Roofing   ,      5.8       , Roofing              , Flat roof repair     
- Concrete  ,      7.5       , Concrete             , Skyscraper foundation
- Brad      ,      2.8       , Detail work          , Wall art installation 
- Ring Shank,      4.5       , Subflooring          , Plywood floor installation 
- Panel     ,      4.2       , Wood paneling        , Ceiling panel installation 
- Upholstery,      2.4       , Upholstery           , Barstool reupholstering 
- Tack      ,      2.2       , Decorative           , Paper quilling       
- Drywall   ,      3.0       , Drywall              , Drywall arch         
- Joist     ,      5.8       , Construction         , Porch roof framing   
- Siding    ,      4.8       , Exterior siding      , Gable vent installation 
- Coil      ,      4.4       , Fencing              , Electric fence installation 
- Flooring  ,      4.2       , Hardwood flooring    , Wine cellar floor installation 
- Masonry   ,      5.0       , Construction         , Retaining wall       
- Brad      ,      2.9       , Detail work          , Sculpture pedestal installation 
- Common    ,      3.4       , General purpose      , Bathroom renovation 
- Roofing   ,      6.0       , Roofing              , Skylight replacement 
- Deck      ,      5.0       , Deck construction    , Deck canopy installation 
- Framing   ,      4.8       , Construction         , Timber roof framing  
- Trim      ,      3.4       , Trim work            , Baseboard installation 
- Concrete  ,      6.5       , Concrete             , Parking structure    
- Finish    ,      3.8       , Fine woodworking     , Wine rack installation 
- Finish    ,      3.5       , Fine woodworking     , Custom cabinetry     
- Common    ,      3.0       , General purpose      , Furniture assembly   
- Masonry   ,      5.2       , Construction         , Stone fireplace      
- Roofing   ,      5.9       , Roofing              , Gutter installation 
- Concrete  ,      8.0       , Concrete             , Dam construction    
- Brad      ,      3.1       , Detail work          , Display case installation 
- Ring Shank,      4.8       , Subflooring          , Tile floor installation 
- Panel     ,      4.5       , Wood paneling        , Wainscoting panel installation 
- Upholstery,      2.6       , Upholstery           , Dining chair reupholstering 
- Tack      ,      2.4       , Decorative           , Macrame crafts       
- Drywall   ,      3.2       , Drywall              , Drywall arch repairs 
- Joist     ,      6.0       , Construction         , Cathedral ceiling framing 
- Siding    ,      5.0       , Exterior siding      , Board and batten installation 
- Coil      ,      4.6       , Fencing              , Vinyl fence installation 
- Flooring  ,      4.0       , Hardwood flooring    , Museum floor installation 
- Masonry   ,      5.4       , Construction         , Garden wall          
- Brad      ,      3.2       , Detail work          , Tapestry art installation 
- Common    ,      3.6       , General purpose      , Closet organization 
- Roofing   ,      6.2       , Roofing              , Chimney flashing installation 
- Deck      ,      5.2       , Deck construction    , Deck bench installation 
- Framing   ,      5.0       , Construction         , Garage framing       
- Trim      ,      3.6       , Trim work            , Crown molding installation 
- Concrete  ,      7.0       , Concrete             , Stadium construction 
- Finish    ,      4.1       , Fine woodworking     , Wine cellar design   
- Finish    ,      3.8       , Fine woodworking     , Custom shelving      
- Common    ,      3.4       , General purpose      , Kitchen renovation   
- Masonry   ,      5.6       , Construction         , Paver patio          
- Roofing   ,      6.5       , Roofing              , Metal roof installation 
- Concrete  ,      8.5       , Concrete             , Bridge construction  
- Brad      ,      3.5       , Detail work          , Floating art display 
- Ring Shank,      5.0       , Subflooring          , Bamboo floor installation 
- Panel     ,      4.8       , Wood paneling        , Wainscoting repairs  
- Upholstery,      2.8       , Upholstery           , Wingback chair reupholstering 
- Tack      ,      2.6       , Decorative           , Beaded curtains      
- Drywall   ,      3.4       , Drywall              , Drywall arch repairs 
- Joist     ,      6.2       , Construction         , Timber beam installation 
- Siding    ,      5.2       , Exterior siding      , Exterior trim installation 
- Coil      ,      4.8       , Fencing              , Wood fence installation 
- Flooring  ,      4.4       , Hardwood flooring    , Ballroom floor installation 
- Masonry   ,      5.8       , Construction         , Stone pathway        
- Brad      ,      3.4       , Detail work          , Wall sculpture hanging 
- Common    ,      3.8       , General purpose      , Office organization 
- Roofing   ,      6.8       , Roofing              , Roof repair          
- Deck      ,      5.8       , Deck construction    , Multi-level deck construction 
- Framing   ,      5.6       , Construction         , Timber frame joinery 
- Trim      ,      3.8       , Trim work            , Chair rail repairs   
- Concrete  ,      7.5       , Concrete             , Stadium foundation  
- Finish    ,      4.4       , Fine woodworking     , Bar installation     
- Finish    ,      4.1       , Fine woodworking     , Custom entertainment center 
- Common    ,      3.6       , General purpose      , Bathroom repairs     
- Masonry   ,      6.0       , Construction         , Stone archway        
- Roofing   ,      7.0       , Roofing              , Roof replacement    
- Concrete  ,      9.0       , Concrete             , Dam repairs         
- Brad      ,      3.8       , Detail work          , Gallery wall hanging 
- Ring Shank,      5.2       , Subflooring          , Cork floor installation 
- Panel     ,      5.0       , Wood paneling        , Wainscoting design   
- Upholstery,      3.0       , Upholstery           , Sectional reupholstering 
- Tack      ,      2.8       , Decorative           , Macrame wall hanging 
- Drywall   ,      3.6       , Drywall              , Curved wall installation 
- Joist     ,      6.5       , Construction         , Timber frame roof installation 
- Siding    ,      5.6       , Exterior siding      , Exterior trim repairs 
- Coil      ,      5.2       , Fencing              , Privacy fence installation 
- Flooring  ,      4.6       , Hardwood flooring    , Gymnasium floor installation 
- Masonry   ,      6.2       , Construction         , Stone fountain       
- Brad      ,      4.0       , Detail work          , Wall mural installation 
- Common    ,      4.2       , General purpose      , Closet renovations  
- Roofing   ,      7.5       , Roofing              , Roof ventilation installation 
- Deck      ,      6.2       , Deck construction    , Deck railing installation 
- Framing   ,      6.0       , Construction         , Timber frame construction 
- Trim      ,      4.0       , Trim work            , Window casing repairs 
- Concrete  ,      8.0       , Concrete             , Stadium renovations 
- Finish    ,      4.8       , Fine woodworking     , Wine cellar construction 
- Finish    ,      4.5       , Fine woodworking     , Custom built-ins     
- Common    ,      4.0       , General purpose      , Home repairs         
- Masonry   ,      6.6       , Construction         , Stone fireplace hearth 
- Roofing   ,      8.0       , Roofing              , Roof coating         
- Concrete  ,      10.0      , Concrete             , Bridge repairs      
- Brad      ,      4.2       , Detail work          , Gallery lighting installation 
- Ring Shank,      5.6       , Subflooring          , Laminate floor repairs 
- Panel     ,      5.4       , Wood paneling        , Wall panel design    
- Upholstery,      3.2       , Upholstery           , Recliner reupholstering 
- Tack      ,      3.0       , Decorative           , String art           
- Drywall   ,      3.8       , Drywall              , Curved wall repairs  
- Joist     ,      7.0       , Construction         , Roof truss installation 
- Siding    ,      6.0       , Exterior siding      , Exterior trim design 
- Coil      ,      5.6       , Fencing              , Aluminum fence installation 
- Flooring  ,      5.0       , Hardwood flooring    , Auditorium floor installation 
- Masonry   ,      6.8       , Construction         , Stone arch           
- Brad      ,      4.4       , Detail work          , Art installation     
- Common    ,      4.6       , General purpose      , Home improvement     
- Roofing   ,      8.5       , Roofing              , Roof insulation installation 
- Deck      ,      6.5       , Deck construction    , Deck lighting installation 
- Framing   ,      6.2       , Construction         , Timber frame repairs 
- Trim      ,      4.4       , Trim work            , Window trim repairs  
- Concrete  ,      9.0       , Concrete             , Bridge reconstruction 
- Finish    ,      5.2       , Fine woodworking     , Custom wine rack     
- Finish    ,      4.9       , Fine woodworking     , Custom bookshelves   
- Common    ,      4.4       , General purpose      , Wall repairs         
- Masonry   ,      7.0       , Construction         , Stone facade         
- Roofing   ,      9.0       , Roofing              , Roof restoration    
- Concrete  ,      10.0      , Concrete             , Bridge maintenance  
- Brad      ,      4.6       , Detail work          , Mirror installation 
- Ring Shank,      6.0       , Subflooring          , Engineered floor installation 
- Panel     ,      5.8       , Wood paneling        , Ceiling beam installation 
- Upholstery,      3.4       , Upholstery           , Sofa reupholstering 
- Tack      ,      3.2       , Decorative           , Dream catcher making 
- Drywall   ,      4.0       , Drywall              , Soundproofing installation 
- Joist     ,      7.5       , Construction         , Roof dormer installation 
- Siding    ,      6.2       , Exterior siding      , Soffit installation  
- Coil      ,      5.8       , Fencing              , Chain-link fence installation 
- Flooring  ,      5.4       , Hardwood flooring    , Dance floor installation 
- Masonry   ,      7.4       , Construction         , Stone staircase     
- Brad      ,      4.8       , Detail work          , Sculpture installation 
- Common    ,      4.8       , General purpose      , Room renovations    
- Roofing   ,      9.5       , Roofing              , Roof expansion joint installation 
- Deck      ,      7.0       , Deck construction    , Deck skirting installation 
- Framing   ,      6.8       , Construction         , Timber frame additions 
- Trim      ,      4.8       , Trim work            , Window casing installation 
- Concrete  ,      9.5       , Concrete             , Bridge retrofitting 
- Finish    ,      5.6       , Fine woodworking     , Custom bar design    
- Finish    ,      5.3       , Fine woodworking     , Custom desk          
- Common    ,      4.6       , General purpose      , Wall painting        
- Masonry   ,      7.8       , Construction         , Stone patio          
- Roofing   ,      10.0      , Roofing              , Roof tear-off       
- Concrete  ,      10.0      , Concrete             , Bridge rehabilitation 
- Brad      ,      5.0       , Detail work          , Art display lighting installation 
- Ring Shank,      6.4       , Subflooring          , Hardwood floor repairs 
- Panel     ,      6.2       , Wood paneling        , Fireplace surround installation 
- Upholstery,      3.6       , Upholstery           , Bench reupholstering 
- Tack      ,      3.4       , Decorative           , Embroidery           
- Drywall   ,      4.2       , Drywall              , Curved ceiling repairs 
- Joist     ,      8.0       , Construction         , Timber frame renovation 
- Siding    ,      6.6       , Exterior siding      , Shingle installation 
- Coil      ,      6.2       , Fencing              , Iron fence installation 
- Flooring  ,      5.8       , Hardwood flooring    , Restaurant floor installation 
- Masonry   ,      8.0       , Construction         , Stone retaining wall 
- Brad      ,      5.2       , Detail work          , Wall sculpture installation 
- Common    ,      5.0       , General purpose      , Home remodeling     
- Roofing   ,      10.0      , Roofing              , Roof waterproofing  
- Deck      ,      7.5       , Deck construction    , Deck stairs installation 
- Framing   ,      7.2       , Construction         , Timber frame extensions 
- Trim      ,      5.0       , Trim work            , Door casing installation 
- Concrete  ,      10.0      , Concrete             , Bridge demolition   
- Finish    ,      6.0       , Fine woodworking     , Custom wine cellar   
- Finish    ,      5.6       , Fine woodworking     , Custom media console 
- Common    ,      5.2       , General purpose      , Home maintenance    
- Masonry   ,      8.5       , Construction         , Stone patio fireplace 
- Roofing   ,      10.0      , Roofing              , Roof maintenance    
- Concrete  ,      10.0      , Concrete             , Bridge construction repairs 
- Brad      ,      5.4       , Detail work          , Sculpture mounting  
- Ring Shank,      6.8       , Subflooring          , Tile floor repairs  
- Panel     ,      6.6       , Wood paneling        , Wall panel repairs   
- Upholstery,      3.8       , Upholstery           , Ottoman reupholstering 
- Tack      ,      3.6       , Decorative           , Paper flower making 
- Drywall   ,      4.4       , Drywall              , Drywall patching     
- Joist     ,      8.5       , Construction         , Timber frame repairs 
- Siding    ,      7.0       , Exterior siding      , Exterior trim repairs 
- Coil      ,      6.6       , Fencing              , PVC fence installation 
- Flooring  ,      6.2       , Hardwood flooring    , Theatre floor installation 
- Masonry   ,      9.0       , Construction         , Stone columns        
- Brad      ,      5.6       , Detail work          , Gallery wall design 
- Common    ,      5.4       , General purpose      , Property repairs     
- Roofing   ,      10.0      , Roofing              , Roof snow removal   
- Deck      ,      8.0       , Deck construction    , Deck pergola installation 
- Framing   ,      7.8       , Construction         , Timber frame repairs 
- Trim      ,      5.6       , Trim work            , Window trim installation 
- Concrete  ,      10.0      , Concrete             , Bridge expansion joint repairs 
- Finish    ,      6.4       , Fine woodworking     , Custom bar counter   
- Finish    ,      6.0       , Fine woodworking     , Custom entertainment unit 
- Common    ,      5.6       , General purpose      , Home renovations    
- Masonry   ,      9.5       , Construction         , Stone facade repairs 
- Roofing   ,      10.0      , Roofing              , Roof repairs        
- Concrete  ,      10.0      , Concrete             , Bridge restoration  
- Brad      ,      6.2       , Detail work          , Gallery wall framing 
- Ring Shank,      7.2       , Subflooring          , Vinyl floor installation 
- Panel     ,      7.0       , Wood paneling        , Accent wall installation 
- Upholstery,      4.2       , Upholstery           , Bench cushion replacement 
- Tack      ,      4.0       , Decorative           , Quilt making         
- Drywall   ,      4.8       , Drywall              , Drywall taping       
- Joist     ,      9.0       , Construction         , Timber frame restoration 
- Siding    ,      7.5       , Exterior siding      , Exterior trim replacement 
- Coil      ,      7.0       , Fencing              , Vinyl fence installation 
- Flooring  ,      6.6       , Hardwood flooring    , Hotel lobby floor installation 
- Masonry   ,      9.8       , Construction         , Stone facade renovation 
- Brad      ,      6.6       , Detail work          , Art framing          
- Common    ,      6.4       , General purpose      , Home improvement projects 
- Roofing   ,      10.0      , Roofing              , Roof maintenance and repairs 
- Deck      ,      8.5       , Deck construction    , Deck fire pit installation 
- Framing   ,      8.2       , Construction         , Timber frame restoration 
- Trim      ,      6.6       , Trim work            , Crown molding installation 
- Concrete  ,      10.0      , Concrete             , Bridge expansion joint replacement 
- Finish    ,      6.8       , Fine woodworking     , Custom wine bar      
- Finish    ,      6.5       , Fine woodworking     , Custom cabinetry     
- Common    ,      6.0       , General purpose      , Home repairs and maintenance 
- Masonry   ,      10.0      , Construction         , Stone wall construction 
- Roofing   ,      10.0      , Roofing              , Roof inspection     
- Concrete  ,      10.0      , Concrete             , Bridge reinforcement 
- Brad      ,      7.0       , Detail work          , Art installation and lighting 
- Ring Shank,      7.6       , Subflooring          , Bamboo floor installation 
- Panel     ,      7.4       , Wood paneling        , Wainscoting installation 
- Upholstery,      4.6       , Upholstery           , Chair reupholstering 
- Tack      ,      4.4       , Decorative           , Macrame wall art     
- Drywall   ,      5.2       , Drywall              , Drywall texture repairs 
- Joist     ,      9.5       , Construction         , Timber frame restoration 
- Siding    ,      8.0       , Exterior siding      , Exterior trim installation 
- Coil      ,      7.4       , Fencing              , Wood fence repairs   
- Flooring  ,      7.0       , Hardwood flooring    , Ballroom floor refinishing 
- Masonry   ,      10.0      , Construction         , Stone pathway repairs 
- Brad      ,      7.2       , Detail work          , Wall sculpture installation 
- Common    ,      6.8       , General purpose      , Office renovations  
- Roofing   ,      10.0      , Roofing              , Roof replacement    
- Deck      ,      8.8       , Deck construction    , Multi-level deck construction 
- Framing   ,      8.6       , Construction         , Timber frame joinery 
- Trim      ,      7.0       , Trim work            , Chair rail installation 
- Concrete  ,      10.0      , Concrete             , Stadium foundation repairs 
- Finish    ,      7.2       , Fine woodworking     , Bar installation    
- Finish    ,      7.0       , Fine woodworking     , Custom entertainment center 
- Common    ,      6.6       , General purpose      , Interior painting    
- Masonry   ,      10.0      , Construction         , Stone facade repairs 
- Roofing   ,      10.0      , Roofing              , Roof leak repairs   
- Concrete  ,      10.0      , Concrete             , Bridge strengthening 
- Brad      ,      7.4       , Detail work          , Art display installation 
- Ring Shank,      8.0       , Subflooring          , Laminate floor installation 
- Panel     ,      7.8       , Wood paneling        , Wall panel repairs   
- Upholstery,      5.0       , Upholstery           , Chair cushion reupholstering 
- Tack      ,      4.8       , Decorative           , String art installation 
- Drywall   ,      5.6       , Drywall              , Drywall corner repairs 
- Joist     ,      9.8       , Construction         , Timber frame repairs 
- Siding    ,      8.5       , Exterior siding      , Siding replacement  
- Coil      ,      7.8       , Fencing              , Privacy fence repairs 
- Flooring  ,      7.4       , Hardwood flooring    , Retail store floor installation 
- Masonry   ,      10.0      , Construction         , Stone facade renovation 
- Brad      ,      7.8       , Detail work          , Custom art framing  
- Common    ,      7.0       , General purpose      , Home remodeling and renovations 
- Roofing   ,      10.0      , Roofing              , Roof restoration    
- Deck      ,      9.0       , Deck construction    , Deck canopy installation 
- Framing   ,      8.8       , Construction         , Timber frame repairs 
- Trim      ,      7.4       , Trim work            , Baseboard installation 
- Concrete  ,      10.0      , Concrete             , Bridge repair and maintenance 
- Finish    ,      7.6       , Fine woodworking     , Custom wine cellar   
- Finish    ,      7.4       , Fine woodworking     , Custom built-in shelves 
- Common    ,      7.2       , General purpose      , Interior renovations 
- Masonry   ,      10.0      , Construction         , Stone facade repairs 
- Roofing   ,      10.0      , Roofing              , Roof repairs and maintenance 
- Concrete  ,      10.0      , Concrete             , Bridge reconstruction 
- Brad      ,      8.0       , Detail work          , Art installation and framing 
- Ring Shank,      8.4       , Subflooring          , Engineered floor repairs 
- Panel     ,      8.2       , Wood paneling        , Wall panel installation 
- Upholstery,      5.4       , Upholstery           , Sofa cushion reupholstering 
- Tack      ,      5.2       , Decorative           , Macrame wall hanging 
- Drywall   ,      6.0       , Drywall              , Drywall ceiling repairs 
- Joist     ,      10.0      , Construction         , Timber frame restoration 
- Siding    ,      9.0       , Exterior siding      , Exterior trim repairs 
- Coil      ,      8.2       , Fencing              , Aluminum fence repairs 
- Flooring  ,      7.8       , Hardwood flooring    , Gymnasium floor refinishing 
- Masonry   ,      10.0      , Construction         , Stone fireplace       
- Brad      ,      8.2       , Detail work          , Art installation and lighting 
- Common    ,      7.8       , General purpose      , Commercial renovations 
- Roofing   ,      10.0      , Roofing              , Roof coating         
- Deck      ,      9.5       , Deck construction    , Deck railing installation 
- Framing   ,      9.2       , Construction         , Timber frame additions 
- Trim      ,      8.0       , Trim work            , Crown molding installation 
- Concrete  ,      10.0      , Concrete             , Bridge maintenance   
- Finish    ,      8.0       , Fine woodworking     , Custom bar design    
- Finish    ,      7.8       , Fine woodworking     , Custom desk          
- Common    ,      7.6       , General purpose      , Wall painting        
- Masonry   ,      10.0      , Construction         , Stone patio          
- Roofing   ,      10.0      , Roofing              , Roof tear-off       
- Concrete  ,      10.0      , Concrete             , Bridge rehabilitation 
- Brad      ,      8.4       , Detail work          , Art display lighting installation 
- Ring Shank,      8.8       , Subflooring          , Hardwood floor repairs 
- Panel     ,      8.6       , Wood paneling        , Fireplace surround installation 
- Upholstery,      5.8       , Upholstery           , Bench reupholstering 
- Tack      ,      5.6       , Decorative           , Embroidery           
- Drywall   ,      6.4       , Drywall              , Curved ceiling repairs 
- Joist     ,      10.0      , Construction         , Timber frame renovation 
- Siding    ,      9.0       , Exterior siding      , Shingle installation 
- Coil      ,      8.6       , Fencing              , Iron fence installation 
- Flooring  ,      8.2       , Hardwood flooring    , Restaurant floor installation 
- Masonry   ,      10.0      , Construction         , Stone retaining wall 
- Brad      ,      8.6       , Detail work          , Wall sculpture installation 
- Common    ,      8.4       , General purpose      , Home remodeling     
- Roofing   ,      10.0      , Roofing              , Roof waterproofing  
- Deck      ,      9.0       , Deck construction    , Deck skirting installation 
- Framing   ,      8.8       , Construction         , Timber frame additions 
- Trim      ,      8.6       , Trim work            , Window casing installation 
- Concrete  ,      10.0      , Concrete             , Bridge retrofitting 
- Finish    ,      8.2       , Fine woodworking     , Custom bar design    
- Finish    ,      7.9       , Fine woodworking     , Custom desk          
- Common    ,      7.4       , General purpose      , Wall painting        
- Masonry   ,      10.0      , Construction         , Stone patio          
- Roofing   ,      10.0      , Roofing              , Roof tear-off       
- Concrete  ,      10.0      , Concrete             , Bridge rehabilitation 
- Brad      ,      8.8       , Detail work          , Art display lighting installation 
- Ring Shank,      9.2       , Subflooring          , Hardwood floor repairs 
- Panel     ,      9.0       , Wood paneling        , Fireplace surround installation 
- Upholstery,      6.2       , Upholstery           , Bench reupholstering 
- Tack      ,      6.0       , Decorative           , Embroidery           
- Drywall   ,      6.8       , Drywall              , Curved ceiling repairs 
- Joist     ,      10.0      , Construction         , Timber frame renovation 
- Siding    ,      9.2       , Exterior siding      , Shingle installation 
- Coil      ,      8.8       , Fencing              , Iron fence installation 
- Flooring  ,      8.6       , Hardwood flooring    , Restaurant floor installation 
- Masonry   ,      10.0      , Construction         , Stone retaining wall 
- Brad      ,      9.0       , Detail work          , Wall sculpture installation 
- Common    ,      8.8       , General purpose      , Home remodeling     
- Roofing   ,      10.0      , Roofing              , Roof waterproofing  
- Deck      ,      9.5       , Deck construction    , Deck skirting installation 
- Framing   ,      9.2       , Construction         , Timber frame additions 
- Trim      ,      8.8       , Trim work            , Window casing installation 
- Concrete  ,      10.0      , Concrete             , Bridge retrofitting 
- Finish    ,      8.6       , Fine woodworking     , Custom bar design    
- Finish    ,      8.4       , Fine woodworking     , Custom desk          
- Common    ,      7.8       , General purpose      , Wall painting        
- Masonry   ,      10.0      , Construction         , Stone patio          
- Roofing   ,      10.0      , Roofing              , Roof tear-off       
- Concrete  ,      10.0      , Concrete             , Bridge rehabilitation 
- Brad      ,      9.2       , Detail work          , Art display lighting installation 
- Ring Shank,      9.6       , Subflooring          , Hardwood floor repairs 
- Panel     ,      9.4       , Wood paneling        , Fireplace surround installation 
- Upholstery,      6.6       , Upholstery           , Bench reupholstering 
- Tack      ,      6.4       , Decorative           , Embroidery           
- Drywall   ,      7.2       , Drywall              , Curved ceiling repairs 
- Joist     ,      10.0      , Construction         , Timber frame renovation 
- Siding    ,      9.5       , Exterior siding      , Shingle installation 
- Coil      ,      9.0       , Fencing              , Iron fence installation 
- Flooring  ,      8.8       , Hardwood flooring    , Restaurant floor installation 
- Masonry   ,      10.0      , Construction         , Stone retaining wall 
- Brad      ,      9.4       , Detail work          , Wall sculpture installation 
- Common    ,      9.0       , General purpose      , Home remodeling     
- Roofing   ,      10.0      , Roofing              , Roof waterproofing  
- Deck      ,      9.8       , Deck construction    , Deck skirting installation 
- Framing   ,      9.6       , Construction         , Timber frame additions 
- Trim      ,      9.0       , Trim work            , Window casing installation 
- Concrete  ,      10.0      , Concrete             , Bridge retrofitting 
- Finish    ,      8.8       , Fine woodworking     , Custom bar design    
- Finish    ,      8.6       , Fine woodworking     , Custom desk          
- Common    ,      8.0       , General purpose      , Wall painting        
- Masonry   ,      10.0      , Construction         , Stone patio          
- Roofing   ,      10.0      , Roofing              , Roof tear-off       
- Concrete  ,      10.0      , Concrete             , Bridge rehabilitation 
- Brad      ,      9.6       , Detail work          , Art display lighting installation 
- Ring Shank,      9.9       , Subflooring          , Hardwood floor repairs 
- Panel     ,      9.8       , Wood paneling        , Fireplace surround installation 
- Upholstery,      6.8       , Upholstery           , Bench reupholstering 
- Tack      ,      6.6       , Decorative           , Embroidery           
- Drywall   ,      7.6       , Drywall              , Curved ceiling repairs 
- Joist     ,      10.0      , Construction         , Timber frame renovation 
- Siding    ,      9.8       , Exterior siding      , Shingle installation 
- Coil      ,      9.2       , Fencing              , Iron fence installation 
- Flooring  ,      9.0       , Hardwood flooring    , Restaurant floor installation 
- Masonry   ,      10.0      , Construction         , Stone retaining wall 
- Brad      ,      9.8       , Detail work          , Wall sculpture installation 
- Common    ,      9.4       , General purpose      , Home remodeling     
- Roofing   ,      10.0      , Roofing              , Roof waterproofing  
- Deck      ,      10.0      , Deck construction    , Deck skirting installation 
- Framing   ,      9.8       , Construction         , Timber frame additions 
- Trim      ,      9.2       , Trim work            , Window casing installation 
- Concrete  ,      10.0      , Concrete             , Bridge retrofitting 
- Finish    ,      9.0       , Fine woodworking     , Custom bar design    
- Finish    ,      8.8       , Fine woodworking     , Custom desk          
- Common    ,      8.2       , General purpose      , Wall painting        
- Masonry   ,      10.0      , Construction         , Stone patio          
- Roofing   ,      10.0      , Roofing              , Roof tear-off       
- Concrete  ,      10.0      , Concrete             , Bridge rehabilitation 
- Brad      ,      9.9       , Detail work          , Art display lighting installation 
- Ring Shank,      10.0      , Subflooring          , Hardwood floor repairs 
- Panel     ,      10.0      , Wood paneling        , Fireplace surround installation 
- Upholstery,      7.0       , Upholstery           , Bench reupholstering 
- Tack      ,      6.8       , Decorative           , Embroidery           
- Drywall   ,      8.0       , Drywall              , Curved ceiling repairs 
- Joist     ,      10.0      , Construction         , Timber frame renovation 
- Siding    ,      9.9       , Exterior siding      , Shingle installation 
- Coil      ,      9.4       , Fencing              , Iron fence installation 
- Flooring  ,      9.2       , Hardwood flooring    , Restaurant floor installation 
- Masonry   ,      10.0      , Construction         , Stone retaining wall 
- Brad      ,      9.9       , Detail work          , Wall sculpture installation 
- Common    ,      9.6       , General purpose      , Home remodeling     
- Roofing   ,      10.0      , Roofing              , Roof waterproofing  
- Deck      ,      10.0      , Deck construction    , Deck skirting installation 
- Framing   ,      10.0      , Construction         , Timber frame additions 
- Trim      ,      9.4       , Trim work            , Window casing installation 
- Concrete  ,      10.0      , Concrete             , Bridge retrofitting 
- Finish    ,      9.2       , Fine woodworking     , Custom bar design    
- Finish    ,      9.0       , Fine woodworking     , Custom desk          
- Common    ,      8.4       , General purpose      , Wall painting        
- Masonry   ,      10.0      , Construction         , Stone patio          
- Roofing   ,      10.0      , Roofing              , Roof tear-off       
- Concrete  ,      10.0      , Concrete             , Bridge rehabilitation 
- Brad      ,      10.0      , Detail work          , Art display lighting installation 
- Ring Shank,      10.0      , Subflooring          , Hardwood floor repairs 
- Panel     ,      10.0      , Wood paneling        , Fireplace surround installation 
- Upholstery,      7.2       , Upholstery           , Bench reupholstering 
- Tack      ,      7.0       , Decorative           , Embroidery           
- Drywall   ,      8.4       , Drywall              , Curved ceiling repairs 
- Joist     ,      10.0      , Construction         , Timber frame renovation 
- Siding    ,      10.0      , Exterior siding      , Shingle installation 
- Coil      ,      9.6       , Fencing              , Iron fence installation 
- Flooring  ,      9.4       , Hardwood flooring    , Restaurant floor installation 
- Masonry   ,      10.0      , Construction         , Stone retaining wall 
- Brad      ,      10.0      , Detail work          , Wall sculpture installation 
- Common    ,      9.8       , General purpose      , Home remodeling     
- Roofing   ,      10.0      , Roofing              , Roof waterproofing  
- Deck      ,      10.0      , Deck construction    , Deck skirting installation 
- Framing   ,      10.0      , Construction         , Timber frame additions 
- Trim      ,      9.6       , Trim work            , Window casing installation 
- Concrete  ,      10.0      , Concrete             , Bridge retrofitting 
- Finish    ,      9.4       , Fine woodworking     , Custom bar design    
- Finish    ,      9.2       , Fine woodworking     , Custom desk          
- Common    ,      8.6       , General purpose      , Wall painting        
- Masonry   ,      10.0      , Construction         , Stone patio          
+Type	Thickness (mm)	Purpose	Task
+Common	1.8	General purpose	Furniture assembly
+Finish	2.1	Fine woodworking	Cabinet making
+Masonry	3.5	Construction	Framing
+Roofing	4	Roofing	Roof installation
+Concrete	5	Concrete	Concrete formwork
+Brad	1.2	Detail work	Trim installation
+Ring Shank	2.8	Subflooring	Flooring
+Panel	2.5	Wood paneling	Panel installation
+Upholstery	1	Upholstery	Upholstery repair
+Tack	0.8	Decorative	Crafts
+Drywall	1.6	Drywall	Drywall installation
+Joist	4.5	Construction	Joist framing
+Siding	3.2	Exterior siding	Siding installation
+Coil	2.9	Fencing	Fence installation
+Flooring	2.2	Hardwood flooring	Flooring
+Masonry	3	Construction	Masonry work
+Brad	1	Detail work	Picture framing
+Common	2	General purpose	Home repairs
+Roofing	4.5	Roofing	Shingle replacement
+Deck	3.8	Deck construction	Deck building
+Framing	3.2	Construction	Wall framing
+Trim	1.5	Trim work	Baseboard installation
+Concrete	4.8	Concrete	Concrete slab
+Finish	1.9	Fine woodworking	Furniture refinishing
+Finish	2	Fine woodworking	Door installation
+Common	1.6	General purpose	Shelf assembly
+Masonry	3.8	Construction	Foundation building
+Roofing	4.2	Roofing	Flashing installation
+Concrete	5.5	Concrete	Bridge construction
+Brad	1.1	Detail work	Picture hanging
+Framing	3	Construction	Beam construction
+Deck	3.5	Deck construction	Railing installation
+Finish	2.2	Fine woodworking	Table refinishing
+Masonry	4	Construction	Retaining wall
+Common	2.5	General purpose	Door repairs
+Trim	1.8	Trim work	Crown molding installation
+Roofing	4.8	Roofing	Flat roof installation
+Brad	1.3	Detail work	Shelf installation
+Common	1.7	General purpose	Home improvement
+Finish	2.3	Fine woodworking	Chair refinishing
+Masonry	3.2	Construction	Fence building
+Roofing	4.4	Roofing	Skylight installation
+Concrete	5.2	Concrete	Sidewalk construction
+Brad	1.4	Detail work	Mirror hanging
+Ring Shank	3	Subflooring	Subfloor installation
+Panel	2.8	Wood paneling	Wainscoting installation
+Upholstery	1.2	Upholstery	Cushion reupholstering
+Tack	1	Decorative	Scrapbooking
+Drywall	1.8	Drywall	Partition installation
+Joist	4.2	Construction	Deck joist framing
+Siding	3.5	Exterior siding	Cladding installation
+Coil	3	Fencing	Gate installation
+Flooring	2.5	Hardwood flooring	Parquet installation
+Masonry	3.3	Construction	Chimney building
+Brad	1.5	Detail work	Shadow box mounting
+Common	2.2	General purpose	Garage repairs
+Roofing	4.7	Roofing	Valley flashing installation
+Deck	3.6	Deck construction	Staircase building
+Framing	3.4	Construction	Truss installation
+Trim	2	Trim work	Window casing installation
+Concrete	5	Concrete	Driveway construction
+Finish	2.5	Fine woodworking	Bookshelf refinishing
+Finish	2.3	Fine woodworking	Stair railing installation
+Common	1.9	General purpose	Shelf repairs
+Masonry	3.6	Construction	Paving
+Roofing	4.3	Roofing	Eave installation
+Concrete	5.8	Concrete	Foundation slab
+Brad	1.6	Detail work	Canvas stretching
+Ring Shank	3.2	Subflooring	Underlayment installation
+Panel	2.9	Wood paneling	Ceiling installation
+Upholstery	1.4	Upholstery	Chair reupholstering
+Tack	1.2	Decorative	Jewelry making
+Drywall	2	Drywall	Ceiling installation
+Joist	4	Construction	Deck beam framing
+Siding	3.8	Exterior siding	Fascia installation
+Coil	3.2	Fencing	Post installation
+Flooring	2.7	Hardwood flooring	Staircase installation
+Masonry	3.5	Construction	Bricklaying
+Brad	1.7	Detail work	Sign hanging
+Common	2.4	General purpose	Cabinet repairs
+Roofing	4.6	Roofing	Ridge vent installation
+Deck	3.7	Deck construction	Balcony building
+Framing	3.6	Construction	Roof truss framing
+Trim	2.2	Trim work	Door trim installation
+Concrete	5.2	Concrete	Foundation wall
+Finish	2.7	Fine woodworking	Dresser refinishing
+Finish	2.4	Fine woodworking	Window frame installation
+Common	2	General purpose	Shelf installation
+Masonry	3.9	Construction	Tuckpointing
+Roofing	4.1	Roofing	Vent pipe installation
+Concrete	6	Concrete	Basement construction
+Brad	1.8	Detail work	Collage making
+Ring Shank	3.4	Subflooring	Hardwood floor installation
+Panel	3.1	Wood paneling	Wall cladding installation
+Upholstery	1.6	Upholstery	Sofa reupholstering
+Tack	1.4	Decorative	Cardboard crafts
+Drywall	2.2	Drywall	Corner bead installation
+Joist	4.8	Construction	Roof joist framing
+Siding	4	Exterior siding	Gable installation
+Coil	3.5	Fencing	Privacy fence installation
+Flooring	3	Hardwood flooring	Gymnasium floor installation
+Masonry	3.8	Construction	Stone veneer installation
+Brad	1.9	Detail work	Floating shelf installation
+Common	2.6	General purpose	Bookcase assembly
+Roofing	4.9	Roofing	Chimney cap installation
+Deck	3.9	Deck construction	Deck railing installation
+Framing	3.8	Construction	Shed framing
+Trim	2.4	Trim work	Chair rail installation
+Concrete	5.6	Concrete	Patio construction
+Finish	2.9	Fine woodworking	Desk refinishing
+Finish	2.6	Fine woodworking	Fireplace mantel installation
+Common	2.2	General purpose	Picture frame repairs
+Masonry	4.2	Construction	Concrete block laying
+Roofing	4.5	Roofing	Solar panel installation
+Concrete	6.2	Concrete	Garage floor
+Brad	2	Detail work	Sculpture mounting
+Ring Shank	3.6	Subflooring	Laminate floor installation
+Panel	3.3	Wood paneling	Soffit installation
+Upholstery	1.8	Upholstery	Ottoman reupholstering
+Tack	1.6	Decorative	Leather crafts
+Drywall	2.4	Drywall	Soundproofing
+Joist	5	Construction	Timber framing
+Siding	4.2	Exterior siding	Cornice installation
+Coil	3.8	Fencing	Trellis installation
+Flooring	3.2	Hardwood flooring	Dance floor installation
+Masonry	4	Construction	Stucco application
+Brad	2.1	Detail work	Tapestry hanging
+Common	2.8	General purpose	Garden furniture assembly
+Roofing	5	Roofing	Attic vent installation
+Deck	4.2	Deck construction	Deck stairs installation
+Framing	4	Construction	Post and beam construction
+Trim	2.6	Trim work	Wainscoting installation
+Concrete	5.8	Concrete	Pool deck construction
+Finish	3.1	Fine woodworking	Bookcase installation
+Finish	2.8	Fine woodworking	Chair installation
+Common	2.4	General purpose	Fence repairs
+Masonry	4.4	Construction	Concrete stairs
+Roofing	4.8	Roofing	Soffit vent installation
+Concrete	6.5	Concrete	Warehouse flooring
+Brad	2.2	Detail work	Decorative hooks installation
+Ring Shank	3.9	Subflooring	Engineered floor installation
+Panel	3.6	Wood paneling	Wainscoting repairs
+Upholstery	2	Upholstery	Bench reupholstering
+Tack	1.8	Decorative	Floral arrangements
+Drywall	2.6	Drywall	Access panel installation
+Joist	5.2	Construction	Porch construction
+Siding	4.4	Exterior siding	Soffit installation
+Coil	4	Fencing	Chain link fence installation
+Flooring	3.5	Hardwood flooring	Sports court installation
+Masonry	4.2	Construction	Fireplace construction
+Brad	2.3	Detail work	Art display hanging
+Common	3	General purpose	Home renovation
+Roofing	5.2	Roofing	Drip edge installation
+Deck	4.5	Deck construction	Deck pergola installation
+Framing	4.2	Construction	Barn construction
+Trim	2.8	Trim work	Window trim installation
+Concrete	6	Concrete	Walkway construction
+Finish	3.3	Fine woodworking	Cabinet installation
+Finish	3	Fine woodworking	Countertop refinishing
+Common	2.6	General purpose	Shelving upgrades
+Masonry	4.6	Construction	Brick arch
+Roofing	5.5	Roofing	Valley installation
+Concrete	7	Concrete	High-rise building
+Brad	2.5	Detail work	Plant hanger
+Ring Shank	4.2	Subflooring	Vinyl floor installation
+Panel	3.9	Wood paneling	Exterior siding panel installation
+Upholstery	2.2	Upholstery	Headboard reupholstering
+Tack	2	Decorative	Beaded jewelry
+Drywall	2.8	Drywall	Fire-rated wall installation
+Joist	5.5	Construction	Roof beam installation
+Siding	4.6	Exterior siding	Shutter installation
+Coil	4.2	Fencing	Gabion wall construction
+Flooring	3.8	Hardwood flooring	Sports arena floor installation
+Masonry	4.8	Construction	Arched doorway
+Brad	2.6	Detail work	Frame installation
+Common	3.2	General purpose	Shed assembly
+Roofing	5.7	Roofing	Eaves trough installation
+Deck	4.8	Deck construction	Pool deck building
+Framing	4.6	Construction	Log cabin framing
+Trim	3.2	Trim work	Crown molding repairs
+Concrete	6.2	Concrete	Bridge piers
+Finish	3.5	Fine woodworking	Kitchen cabinet refinishing
+Finish	3.2	Fine woodworking	Mantelpiece installation
+Common	2.8	General purpose	Window repairs
+Masonry	4.8	Construction	Monument building
+Roofing	5.8	Roofing	Flat roof repair
+Concrete	7.5	Concrete	Skyscraper foundation
+Brad	2.8	Detail work	Wall art installation
+Ring Shank	4.5	Subflooring	Plywood floor installation
+Panel	4.2	Wood paneling	Ceiling panel installation
+Upholstery	2.4	Upholstery	Barstool reupholstering
+Tack	2.2	Decorative	Paper quilling
+Drywall	3	Drywall	Drywall arch
+Joist	5.8	Construction	Porch roof framing
+Siding	4.8	Exterior siding	Gable vent installation
+Coil	4.4	Fencing	Electric fence installation
+Flooring	4.2	Hardwood flooring	Wine cellar floor installation
+Masonry	5	Construction	Retaining wall
+Brad	2.9	Detail work	Sculpture pedestal installation
+Common	3.4	General purpose	Bathroom renovation
+Roofing	6	Roofing	Skylight replacement
+Deck	5	Deck construction	Deck canopy installation
+Framing	4.8	Construction	Timber roof framing
+Trim	3.4	Trim work	Baseboard installation
+Concrete	6.5	Concrete	Parking structure
+Finish	3.8	Fine woodworking	Wine rack installation
+Finish	3.5	Fine woodworking	Custom cabinetry
+Common	3	General purpose	Furniture assembly
+Masonry	5.2	Construction	Stone fireplace
+Roofing	5.9	Roofing	Gutter installation
+Concrete	8	Concrete	Dam construction
+Brad	3.1	Detail work	Display case installation
+Ring Shank	4.8	Subflooring	Tile floor installation
+Panel	4.5	Wood paneling	Wainscoting panel installation
+Upholstery	2.6	Upholstery	Dining chair reupholstering
+Tack	2.4	Decorative	Macrame crafts
+Drywall	3.2	Drywall	Drywall arch repairs
+Joist	6	Construction	Cathedral ceiling framing
+Siding	5	Exterior siding	Board and batten installation
+Coil	4.6	Fencing	Vinyl fence installation
+Flooring	4	Hardwood flooring	Museum floor installation
+Masonry	5.4	Construction	Garden wall
+Brad	3.2	Detail work	Tapestry art installation
+Common	3.6	General purpose	Closet organization
+Roofing	6.2	Roofing	Chimney flashing installation
+Deck	5.2	Deck construction	Deck bench installation
+Framing	5	Construction	Garage framing
+Trim	3.6	Trim work	Crown molding installation
+Concrete	7	Concrete	Stadium construction
+Finish	4.1	Fine woodworking	Wine cellar design
+Finish	3.8	Fine woodworking	Custom shelving
+Common	3.4	General purpose	Kitchen renovation
+Masonry	5.6	Construction	Paver patio
+Roofing	6.5	Roofing	Metal roof installation
+Concrete	8.5	Concrete	Bridge construction
+Brad	3.5	Detail work	Floating art display
+Ring Shank	5	Subflooring	Bamboo floor installation
+Panel	4.8	Wood paneling	Wainscoting repairs
+Upholstery	2.8	Upholstery	Wingback chair reupholstering
+Tack	2.6	Decorative	Beaded curtains
+Drywall	3.4	Drywall	Drywall arch repairs
+Joist	6.2	Construction	Timber beam installation
+Siding	5.2	Exterior siding	Exterior trim installation
+Coil	4.8	Fencing	Wood fence installation
+Flooring	4.4	Hardwood flooring	Ballroom floor installation
+Masonry	5.8	Construction	Stone pathway
+Brad	3.4	Detail work	Wall sculpture hanging
+Common	3.8	General purpose	Office organization
+Roofing	6.8	Roofing	Roof repair
+Deck	5.8	Deck construction	Multi-level deck construction
+Framing	5.6	Construction	Timber frame joinery
+Trim	3.8	Trim work	Chair rail repairs
+Concrete	7.5	Concrete	Stadium foundation
+Finish	4.4	Fine woodworking	Bar installation
+Finish	4.1	Fine woodworking	Custom entertainment center
+Common	3.6	General purpose	Bathroom repairs
+Masonry	6	Construction	Stone archway
+Roofing	7	Roofing	Roof replacement
+Concrete	9	Concrete	Dam repairs
+Brad	3.8	Detail work	Gallery wall hanging
+Ring Shank	5.2	Subflooring	Cork floor installation
+Panel	5	Wood paneling	Wainscoting design
+Upholstery	3	Upholstery	Sectional reupholstering
+Tack	2.8	Decorative	Macrame wall hanging
+Drywall	3.6	Drywall	Curved wall installation
+Joist	6.5	Construction	Timber frame roof installation
+Siding	5.6	Exterior siding	Exterior trim repairs
+Coil	5.2	Fencing	Privacy fence installation
+Flooring	4.6	Hardwood flooring	Gymnasium floor installation
+Masonry	6.2	Construction	Stone fountain
+Brad	4	Detail work	Wall mural installation
+Common	4.2	General purpose	Closet renovations
+Roofing	7.5	Roofing	Roof ventilation installation
+Deck	6.2	Deck construction	Deck railing installation
+Framing	6	Construction	Timber frame construction
+Trim	4	Trim work	Window casing repairs
+Concrete	8	Concrete	Stadium renovations
+Finish	4.8	Fine woodworking	Wine cellar construction
+Finish	4.5	Fine woodworking	Custom built-ins
+Common	4	General purpose	Home repairs
+Masonry	6.6	Construction	Stone fireplace hearth
+Roofing	8	Roofing	Roof coating
+Concrete	10	Concrete	Bridge repairs
+Brad	4.2	Detail work	Gallery lighting installation
+Ring Shank	5.6	Subflooring	Laminate floor repairs
+Panel	5.4	Wood paneling	Wall panel design
+Upholstery	3.2	Upholstery	Recliner reupholstering
+Tack	3	Decorative	String art
+Drywall	3.8	Drywall	Curved wall repairs
+Joist	7	Construction	Roof truss installation
+Siding	6	Exterior siding	Exterior trim design
+Coil	5.6	Fencing	Aluminum fence installation
+Flooring	5	Hardwood flooring	Auditorium floor installation
+Masonry	6.8	Construction	Stone arch
+Brad	4.4	Detail work	Art installation
+Common	4.6	General purpose	Home improvement
+Roofing	8.5	Roofing	Roof insulation installation
+Deck	6.5	Deck construction	Deck lighting installation
+Framing	6.2	Construction	Timber frame repairs
+Trim	4.4	Trim work	Window trim repairs
+Concrete	9	Concrete	Bridge reconstruction
+Finish	5.2	Fine woodworking	Custom wine rack
+Finish	4.9	Fine woodworking	Custom bookshelves
+Common	4.4	General purpose	Wall repairs
+Masonry	7	Construction	Stone facade
+Roofing	9	Roofing	Roof restoration
+Concrete	10	Concrete	Bridge maintenance
+Brad	4.6	Detail work	Mirror installation
+Ring Shank	6	Subflooring	Engineered floor installation
+Panel	5.8	Wood paneling	Ceiling beam installation
+Upholstery	3.4	Upholstery	Sofa reupholstering
+Tack	3.2	Decorative	Dream catcher making
+Drywall	4	Drywall	Soundproofing installation
+Joist	7.5	Construction	Roof dormer installation
+Siding	6.2	Exterior siding	Soffit installation
+Coil	5.8	Fencing	Chain-link fence installation
+Flooring	5.4	Hardwood flooring	Dance floor installation
+Masonry	7.4	Construction	Stone staircase
+Brad	4.8	Detail work	Sculpture installation
+Common	4.8	General purpose	Room renovations
+Roofing	9.5	Roofing	Roof expansion joint installation
+Deck	7	Deck construction	Deck skirting installation
+Framing	6.8	Construction	Timber frame additions
+Trim	4.8	Trim work	Window casing installation
+Concrete	9.5	Concrete	Bridge retrofitting
+Finish	5.6	Fine woodworking	Custom bar design
+Finish	5.3	Fine woodworking	Custom desk
+Common	4.6	General purpose	Wall painting
+Masonry	7.8	Construction	Stone patio
+Roofing	10	Roofing	Roof tear-off
+Concrete	10	Concrete	Bridge rehabilitation
+Brad	5	Detail work	Art display lighting installation
+Ring Shank	6.4	Subflooring	Hardwood floor repairs
+Panel	6.2	Wood paneling	Fireplace surround installation
+Upholstery	3.6	Upholstery	Bench reupholstering
+Tack	3.4	Decorative	Embroidery
+Drywall	4.2	Drywall	Curved ceiling repairs
+Joist	8	Construction	Timber frame renovation
+Siding	6.6	Exterior siding	Shingle installation
+Coil	6.2	Fencing	Iron fence installation
+Flooring	5.8	Hardwood flooring	Restaurant floor installation
+Masonry	8	Construction	Stone retaining wall
+Brad	5.2	Detail work	Wall sculpture installation
+Common	5	General purpose	Home remodeling
+Roofing	10	Roofing	Roof waterproofing
+Deck	7.5	Deck construction	Deck stairs installation
+Framing	7.2	Construction	Timber frame extensions
+Trim	5	Trim work	Door casing installation
+Concrete	10	Concrete	Bridge demolition
+Finish	6	Fine woodworking	Custom wine cellar
+Finish	5.6	Fine woodworking	Custom media console
+Common	5.2	General purpose	Home maintenance
+Masonry	8.5	Construction	Stone patio fireplace
+Roofing	10	Roofing	Roof maintenance
+Concrete	10	Concrete	Bridge construction repairs
+Brad	5.4	Detail work	Sculpture mounting
+Ring Shank	6.8	Subflooring	Tile floor repairs
+Panel	6.6	Wood paneling	Wall panel repairs
+Upholstery	3.8	Upholstery	Ottoman reupholstering
+Tack	3.6	Decorative	Paper flower making
+Drywall	4.4	Drywall	Drywall patching
+Joist	8.5	Construction	Timber frame repairs
+Siding	7	Exterior siding	Exterior trim repairs
+Coil	6.6	Fencing	PVC fence installation
+Flooring	6.2	Hardwood flooring	Theatre floor installation
+Masonry	9	Construction	Stone columns
+Brad	5.6	Detail work	Gallery wall design
+Common	5.4	General purpose	Property repairs
+Roofing	10	Roofing	Roof snow removal
+Deck	8	Deck construction	Deck pergola installation
+Framing	7.8	Construction	Timber frame repairs
+Trim	5.6	Trim work	Window trim installation
+Concrete	10	Concrete	Bridge expansion joint repairs
+Finish	6.4	Fine woodworking	Custom bar counter
+Finish	6	Fine woodworking	Custom entertainment unit
+Common	5.6	General purpose	Home renovations
+Masonry	9.5	Construction	Stone facade repairs
+Roofing	10	Roofing	Roof repairs
+Concrete	10	Concrete	Bridge restoration
+Brad	6.2	Detail work	Gallery wall framing
+Ring Shank	7.2	Subflooring	Vinyl floor installation
+Panel	7	Wood paneling	Accent wall installation
+Upholstery	4.2	Upholstery	Bench cushion replacement
+Tack	4	Decorative	Quilt making
+Drywall	4.8	Drywall	Drywall taping
+Joist	9	Construction	Timber frame restoration
+Siding	7.5	Exterior siding	Exterior trim replacement
+Coil	7	Fencing	Vinyl fence installation
+Flooring	6.6	Hardwood flooring	Hotel lobby floor installation
+Masonry	9.8	Construction	Stone facade renovation
+Brad	6.6	Detail work	Art framing
+Common	6.4	General purpose	Home improvement projects
+Roofing	10	Roofing	Roof maintenance and repairs
+Deck	8.5	Deck construction	Deck fire pit installation
+Framing	8.2	Construction	Timber frame restoration
+Trim	6.6	Trim work	Crown molding installation
+Concrete	10	Concrete	Bridge expansion joint replacement
+Finish	6.8	Fine woodworking	Custom wine bar
+Finish	6.5	Fine woodworking	Custom cabinetry
+Common	6	General purpose	Home repairs and maintenance
+Masonry	10	Construction	Stone wall construction
+Roofing	10	Roofing	Roof inspection
+Concrete	10	Concrete	Bridge reinforcement
+Brad	7	Detail work	Art installation and lighting
+Ring Shank	7.6	Subflooring	Bamboo floor installation
+Panel	7.4	Wood paneling	Wainscoting installation
+Upholstery	4.6	Upholstery	Chair reupholstering
+Tack	4.4	Decorative	Macrame wall art
+Drywall	5.2	Drywall	Drywall texture repairs
+Joist	9.5	Construction	Timber frame restoration
+Siding	8	Exterior siding	Exterior trim installation
+Coil	7.4	Fencing	Wood fence repairs
+Flooring	7	Hardwood flooring	Ballroom floor refinishing
+Masonry	10	Construction	Stone pathway repairs
+Brad	7.2	Detail work	Wall sculpture installation
+Common	6.8	General purpose	Office renovations
+Roofing	10	Roofing	Roof replacement
+Deck	8.8	Deck construction	Multi-level deck construction
+Framing	8.6	Construction	Timber frame joinery
+Trim	7	Trim work	Chair rail installation
+Concrete	10	Concrete	Stadium foundation repairs
+Finish	7.2	Fine woodworking	Bar installation
+Finish	7	Fine woodworking	Custom entertainment center
+Common	6.6	General purpose	Interior painting
+Masonry	10	Construction	Stone facade repairs
+Roofing	10	Roofing	Roof leak repairs
+Concrete	10	Concrete	Bridge strengthening
+Brad	7.4	Detail work	Art display installation
+Ring Shank	8	Subflooring	Laminate floor installation
+Panel	7.8	Wood paneling	Wall panel repairs
+Upholstery	5	Upholstery	Chair cushion reupholstering
+Tack	4.8	Decorative	String art installation
+Drywall	5.6	Drywall	Drywall corner repairs
+Joist	9.8	Construction	Timber frame repairs
+Siding	8.5	Exterior siding	Siding replacement
+Coil	7.8	Fencing	Privacy fence repairs
+Flooring	7.4	Hardwood flooring	Retail store floor installation
+Masonry	10	Construction	Stone facade renovation
+Brad	7.8	Detail work	Custom art framing
+Common	7	General purpose	Home remodeling and renovations
+Roofing	10	Roofing	Roof restoration
+Deck	9	Deck construction	Deck canopy installation
+Framing	8.8	Construction	Timber frame repairs
+Trim	7.4	Trim work	Baseboard installation
+Concrete	10	Concrete	Bridge repair and maintenance
+Finish	7.6	Fine woodworking	Custom wine cellar
+Finish	7.4	Fine woodworking	Custom built-in shelves
+Common	7.2	General purpose	Interior renovations
+Masonry	10	Construction	Stone facade repairs
+Roofing	10	Roofing	Roof repairs and maintenance
+Concrete	10	Concrete	Bridge reconstruction
+Brad	8	Detail work	Art installation and framing
+Ring Shank	8.4	Subflooring	Engineered floor repairs
+Panel	8.2	Wood paneling	Wall panel installation
+Upholstery	5.4	Upholstery	Sofa cushion reupholstering
+Tack	5.2	Decorative	Macrame wall hanging
+Drywall	6	Drywall	Drywall ceiling repairs
+Joist	10	Construction	Timber frame restoration
+Siding	9	Exterior siding	Exterior trim repairs
+Coil	8.2	Fencing	Aluminum fence repairs
+Flooring	7.8	Hardwood flooring	Gymnasium floor refinishing
+Masonry	10	Construction	Stone fireplace
+Brad	8.2	Detail work	Art installation and lighting
+Common	7.8	General purpose	Commercial renovations
+Roofing	10	Roofing	Roof coating
+Deck	9.5	Deck construction	Deck railing installation
+Framing	9.2	Construction	Timber frame additions
+Trim	8	Trim work	Crown molding installation
+Concrete	10	Concrete	Bridge maintenance
+Finish	8	Fine woodworking	Custom bar design
+Finish	7.8	Fine woodworking	Custom desk
+Common	7.6	General purpose	Wall painting
+Masonry	10	Construction	Stone patio
+Roofing	10	Roofing	Roof tear-off
+Concrete	10	Concrete	Bridge rehabilitation
+Brad	8.4	Detail work	Art display lighting installation
+Ring Shank	8.8	Subflooring	Hardwood floor repairs
+Panel	8.6	Wood paneling	Fireplace surround installation
+Upholstery	5.8	Upholstery	Bench reupholstering
+Tack	5.6	Decorative	Embroidery
+Drywall	6.4	Drywall	Curved ceiling repairs
+Joist	10	Construction	Timber frame renovation
+Siding	9	Exterior siding	Shingle installation
+Coil	8.6	Fencing	Iron fence installation
+Flooring	8.2	Hardwood flooring	Restaurant floor installation
+Masonry	10	Construction	Stone retaining wall
+Brad	8.6	Detail work	Wall sculpture installation
+Common	8.4	General purpose	Home remodeling
+Roofing	10	Roofing	Roof waterproofing
+Deck	9	Deck construction	Deck skirting installation
+Framing	8.8	Construction	Timber frame additions
+Trim	8.6	Trim work	Window casing installation
+Concrete	10	Concrete	Bridge retrofitting
+Finish	8.2	Fine woodworking	Custom bar design
+Finish	7.9	Fine woodworking	Custom desk
+Common	7.4	General purpose	Wall painting
+Masonry	10	Construction	Stone patio
+Roofing	10	Roofing	Roof tear-off
+Concrete	10	Concrete	Bridge rehabilitation
+Brad	8.8	Detail work	Art display lighting installation
+Ring Shank	9.2	Subflooring	Hardwood floor repairs
+Panel	9	Wood paneling	Fireplace surround installation
+Upholstery	6.2	Upholstery	Bench reupholstering
+Tack	6	Decorative	Embroidery
+Drywall	6.8	Drywall	Curved ceiling repairs
+Joist	10	Construction	Timber frame renovation
+Siding	9.2	Exterior siding	Shingle installation
+Coil	8.8	Fencing	Iron fence installation
+Flooring	8.6	Hardwood flooring	Restaurant floor installation
+Masonry	10	Construction	Stone retaining wall
+Brad	9	Detail work	Wall sculpture installation
+Common	8.8	General purpose	Home remodeling
+Roofing	10	Roofing	Roof waterproofing
+Deck	9.5	Deck construction	Deck skirting installation
+Framing	9.2	Construction	Timber frame additions
+Trim	8.8	Trim work	Window casing installation
+Concrete	10	Concrete	Bridge retrofitting
+Finish	8.6	Fine woodworking	Custom bar design
+Finish	8.4	Fine woodworking	Custom desk
+Common	7.8	General purpose	Wall painting
+Masonry	10	Construction	Stone patio
+Roofing	10	Roofing	Roof tear-off
+Concrete	10	Concrete	Bridge rehabilitation
+Brad	9.2	Detail work	Art display lighting installation
+Ring Shank	9.6	Subflooring	Hardwood floor repairs
+Panel	9.4	Wood paneling	Fireplace surround installation
+Upholstery	6.6	Upholstery	Bench reupholstering
+Tack	6.4	Decorative	Embroidery
+Drywall	7.2	Drywall	Curved ceiling repairs
+Joist	10	Construction	Timber frame renovation
+Siding	9.5	Exterior siding	Shingle installation
+Coil	9	Fencing	Iron fence installation
+Flooring	8.8	Hardwood flooring	Restaurant floor installation
+Masonry	10	Construction	Stone retaining wall
+Brad	9.4	Detail work	Wall sculpture installation
+Common	9	General purpose	Home remodeling
+Roofing	10	Roofing	Roof waterproofing
+Deck	9.8	Deck construction	Deck skirting installation
+Framing	9.6	Construction	Timber frame additions
+Trim	9	Trim work	Window casing installation
+Concrete	10	Concrete	Bridge retrofitting
+Finish	8.8	Fine woodworking	Custom bar design
+Finish	8.6	Fine woodworking	Custom desk
+Common	8	General purpose	Wall painting
+Masonry	10	Construction	Stone patio
+Roofing	10	Roofing	Roof tear-off
+Concrete	10	Concrete	Bridge rehabilitation
+Brad	9.6	Detail work	Art display lighting installation
+Ring Shank	9.9	Subflooring	Hardwood floor repairs
+Panel	9.8	Wood paneling	Fireplace surround installation
+Upholstery	6.8	Upholstery	Bench reupholstering
+Tack	6.6	Decorative	Embroidery
+Drywall	7.6	Drywall	Curved ceiling repairs
+Joist	10	Construction	Timber frame renovation
+Siding	9.8	Exterior siding	Shingle installation
+Coil	9.2	Fencing	Iron fence installation
+Flooring	9	Hardwood flooring	Restaurant floor installation
+Masonry	10	Construction	Stone retaining wall
+Brad	9.8	Detail work	Wall sculpture installation
+Common	9.4	General purpose	Home remodeling
+Roofing	10	Roofing	Roof waterproofing
+Deck	10	Deck construction	Deck skirting installation
+Framing	9.8	Construction	Timber frame additions
+Trim	9.2	Trim work	Window casing installation
+Concrete	10	Concrete	Bridge retrofitting
+Finish	9	Fine woodworking	Custom bar design
+Finish	8.8	Fine woodworking	Custom desk
+Common	8.2	General purpose	Wall painting
+Masonry	10	Construction	Stone patio
+Roofing	10	Roofing	Roof tear-off
+Concrete	10	Concrete	Bridge rehabilitation
+Brad	9.9	Detail work	Art display lighting installation
+Ring Shank	10	Subflooring	Hardwood floor repairs
+Panel	10	Wood paneling	Fireplace surround installation
+Upholstery	7	Upholstery	Bench reupholstering
+Tack	6.8	Decorative	Embroidery
+Drywall	8	Drywall	Curved ceiling repairs
+Joist	10	Construction	Timber frame renovation
+Siding	9.9	Exterior siding	Shingle installation
+Coil	9.4	Fencing	Iron fence installation
+Flooring	9.2	Hardwood flooring	Restaurant floor installation
+Masonry	10	Construction	Stone retaining wall
+Brad	9.9	Detail work	Wall sculpture installation
+Common	9.6	General purpose	Home remodeling
+Roofing	10	Roofing	Roof waterproofing
+Deck	10	Deck construction	Deck skirting installation
+Framing	10	Construction	Timber frame additions
+Trim	9.4	Trim work	Window casing installation
+Concrete	10	Concrete	Bridge retrofitting
+Finish	9.2	Fine woodworking	Custom bar design
+Finish	9	Fine woodworking	Custom desk
+Common	8.4	General purpose	Wall painting
+Masonry	10	Construction	Stone patio
+Roofing	10	Roofing	Roof tear-off
+Concrete	10	Concrete	Bridge rehabilitation
+Brad	10	Detail work	Art display lighting installation
+Ring Shank	10	Subflooring	Hardwood floor repairs
+Panel	10	Wood paneling	Fireplace surround installation
+Upholstery	7.2	Upholstery	Bench reupholstering
+Tack	7	Decorative	Embroidery
+Drywall	8.4	Drywall	Curved ceiling repairs
+Joist	10	Construction	Timber frame renovation
+Siding	10	Exterior siding	Shingle installation
+Coil	9.6	Fencing	Iron fence installation
+Flooring	9.4	Hardwood flooring	Restaurant floor installation
+Masonry	10	Construction	Stone retaining wall
+Brad	10	Detail work	Wall sculpture installation
+Common	9.8	General purpose	Home remodeling
+Roofing	10	Roofing	Roof waterproofing
+Deck	10	Deck construction	Deck skirting installation
+Framing	10	Construction	Timber frame additions
+Trim	9.6	Trim work	Window casing installation
+Concrete	10	Concrete	Bridge retrofitting
+Finish	9.4	Fine woodworking	Custom bar design
+Finish	9.2	Fine woodworking	Custom desk
+Common	8.6	General purpose	Wall painting
+Masonry	10	Construction	Stone patio
